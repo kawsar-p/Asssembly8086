@@ -2,7 +2,7 @@
 .stack 100h
 .data
 
-msg db 'Enter Uppper case: $'  ;Lower case to Upper case
+msg db 'Enter Lower case: $'  ;Lower case to Upper case
 msg1 db 0ah,0dh,'The Upper case is: $' 
 
 .code
